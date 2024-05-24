@@ -1,0 +1,17 @@
+html{
+    font-size: 100%;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+}
+body{
+    background-color: black;
+    color: white;
+}
+@media only screen and (width<=600px) {
+    html{
+        font-size: 85%;
+    }
+}
