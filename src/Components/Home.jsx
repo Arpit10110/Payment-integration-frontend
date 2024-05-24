@@ -32,6 +32,7 @@ const Home = () => {
   // };
   //   const rzp1 = new window.Razorpay(options);
   //   rzp1.open();
+  // onClick={()=>buyit(105)}
   // }
   return (
     <div className='Home-main'>
@@ -39,7 +40,7 @@ const Home = () => {
         <img src={Iphone} alt="iphone" />
         <div className="detail">
             <h3>₹105</h3>
-            <button onClick={()=>buyit(105)} >Buy Now</button>
+            <button >Buy Now</button>
         </div>
       </div>
     </div>
