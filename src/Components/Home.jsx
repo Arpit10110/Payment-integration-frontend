@@ -38,8 +38,8 @@ const Home = () => {
       <div className="card">
         <img src={Iphone} alt="iphone" />
         <div className="detail">
-            <h3>₹105</h3>
-            <button onClick={()=>buyit(105)}  >Buy Now</button>
+            <h3>₹1</h3>
+            <button onClick={()=>buyit(1)}  >Buy Now</button>
         </div>
       </div>
     </div>
