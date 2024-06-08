@@ -10,7 +10,7 @@ const Home = () => {
     })
     console.log(order)
     const options = {
-      key: "rzp_test_zX8JwR7ErLD2Nw", 
+      key: "rzp_live_bNC22V1QqLZNwH", 
       amount: order.amount, 
       currency: "INR",
       name: "Arpit telecom",
